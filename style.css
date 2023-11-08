@@ -112,6 +112,31 @@ i {
 }
 
 
+#slide1 {
+    display: none;
+}
+#slide2 {
+    display: none;
+}
+#slide3 {
+    display: none;
+}
+#slide4 {
+    display: none;
+}
+#slide5 {
+    display: none;
+}
+#vision {
+    display: none;
+}
+#health {
+    display: none;
+}
+
+
+
+
 /* *** responsive css *** */
 
 @media only screen and (min-width: 768px) and (max-width: 991px){
